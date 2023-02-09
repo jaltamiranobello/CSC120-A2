@@ -17,7 +17,8 @@ from typing import Dict, Union, Optional
 """
 inventory : Dict[int, Dict[str, Union[str, int, bool]]] = {}
 
-itemID = 0 # We'll increment this every time we add a new item 
+itemID = 0 
+# We'll increment this every time we add a new item 
            # so that we always have a new value for the itemID
 
 """

@@ -1,4 +1,5 @@
 # Import a few useful containers from the typing module
+
 from typing import Dict, Union
 
 # Import the functions we wrote in procedural_resale_shop.py
